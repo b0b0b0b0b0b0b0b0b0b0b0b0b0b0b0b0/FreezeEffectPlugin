@@ -11,7 +11,7 @@ FreezeEffectPlugin adds a freezing effect to Minecraft players when they stand o
 * Console messages displaying active blocks and freeze duration on startup and reload.
 ## Commands and Permissions
 /fep reload — Reloads the plugin configuration (permission: fep.admin).
-##Installation
+## Installation
 1. Download the plugin and place it in your server's plugins directory.
 2. Start the server to generate the default configuration file.
 3. Customize the configuration as needed.

@@ -1,0 +1,13 @@
+name: FreezeEffectPlugin
+version: '${project.version}'
+main: org.b0b0bo.freezeeffectplugin.FreezeEffectPlugin
+api-version: '1.20'
+commands:
+  fep:
+    description: Main command for FreezeEffectPlugin
+    usage: /fep reload
+    permission: fep.admin
+permissions:
+  fep.admin:
+    description: Allows admin to use FreezeEffectPlugin commands
+    default: op
